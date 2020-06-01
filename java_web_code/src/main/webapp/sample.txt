@@ -1,1 +1,5 @@
-Hello Edureka...Welcome to the session
+
+Sucessfully completed the : devops_pipeline_demo 
+
+Thanks, 
+Rajendra Bobade
